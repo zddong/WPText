@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name         = "WPText"
+  s.name         = "WPTexts"
   s.version      = "0.0.1"
   s.summary      = "WPText"
   s.description  = <<-DESC
